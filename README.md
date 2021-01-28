@@ -1,7 +1,5 @@
 # smart-road-safety-security-systems
 
-#### This project is still a work in progress
-
 ### This project consists of two modules:
 
 1. Fraudulent Licence Plate Detection and Alerting System
